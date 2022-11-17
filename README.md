@@ -1,7 +1,7 @@
 # HeroGamble-C--AbstractExample
 
 
-- Kullanıcı Büyücü yada savaşçı sınıfını seçer.
+- Kullanıcı Büyücü ya da savaşçı sınıfını seçer.
 - Program kullanıcının seçimini göre bu seçimdeki BüyüHasarı, BüyüDefansı, FizikselHasar, FizikselDefans ve CanPuanı değerlerini seçilen sınıfa göre rastgele bellir değerler arasında atar ve hesaplama yaparak karakterinizin kaç yıldız olduğuna karar verir.
 - Yıldız derecesi 1 ila 5 arasında değişir.
 
