@@ -1,0 +1,8 @@
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\bin\Debug\HeroGamble.exe.config
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\bin\Debug\HeroGamble.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\bin\Debug\HeroGamble.pdb
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\obj\Debug\HeroGamble.csproj.AssemblyReference.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\obj\Debug\HeroGamble.csproj.SuggestedBindingRedirects.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\obj\Debug\HeroGamble.csproj.CoreCompileInputs.cache
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\obj\Debug\HeroGamble.exe
+C:\Users\enesk\OneDrive\Desktop\C# deneme\HeroGamble\HeroGamble\obj\Debug\HeroGamble.pdb
